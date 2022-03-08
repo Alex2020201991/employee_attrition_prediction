@@ -5,7 +5,7 @@
 1. **LabelEncoder to handle categorical variables,** 
 2. **Quantile to normalize data by divide dataset into groups,**
 3. **NearMiss to handle imbalanced data,**
-4. **Machine learning part (Data validation- train_test_split, 
+4. **Machine learning part (Data validation- train_test_split,** 
 5. **Random Forest classification algorithm,** 
 6. **Confusion matrix (summary of prediction results).**
 
